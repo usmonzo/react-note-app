@@ -1,2 +1,1 @@
 # react-picterest
-pinterest. clone
