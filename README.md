@@ -1,4 +1,4 @@
 # Write & ∆
 
 
-A simple application for keeping records, creating a list of tasks.
+A simple application for keeping small notes, creating a list of tasks.
