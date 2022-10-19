@@ -8,7 +8,7 @@ const Search = ({ handleSearchNote }) => {
       <MdSearch className="search-icons" size="3em" />
       <Input
         size="lg"
-        fontSize="1.7em"
+        fontSize="1em"
         padding={10}
         variant="filled"
         onChange={(event) => handleSearchNote(event.target.value)}
